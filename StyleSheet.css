@@ -6,7 +6,7 @@
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('images/BG_LogoLrgMarble.jpg');
+    
 }
 
 .container {
@@ -71,7 +71,7 @@ h3 span img.Logo {
     height: auto;
 }
 section.content {
-    background-image: url('images/BG_LogoLrgMarble.jpg');
+   
     background-size: cover;
     height: 500px;
     margin: 0;
